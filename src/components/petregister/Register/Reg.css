@@ -1,0 +1,168 @@
+/* .figcaption{
+    position: absolute;
+    bottom: 2rem;
+    margin: 0 2rem;
+    color: white;
+    font-size: 1.5em;
+} */
+.background{
+    background-image: url('../Images/twocat.png');
+    background-repeat: no-repeat;
+    height: 81.5vh;
+    background-position:center;
+    background-size: cover;
+    opacity:0.75;
+}
+
+.offer{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.one{
+    /* height: 50px;
+    width: 81px; */
+    width: 4rem;
+    margin-left: 170px;
+    margin-top: 10px;
+}
+
+.space{
+    margin-left: 43px;
+    font-size: 24px;
+}
+
+.spaces{
+    margin-left: 51px;
+    font-size: 24px;
+}
+
+.spacess{
+    margin-left: 64px;
+    font-size: 24px;
+}
+
+.blank{
+    border-color: white;
+}
+
+.shift{
+    margin-left: 332px;
+}
+
+.point{
+    height: 11px;
+    width: 11px;
+    margin-left: 1px;
+    margin-top: -1px;
+}
+
+/* .wut{
+    height: 230px;
+    margin-top: -1490px;
+    margin-left: 1050px;
+}
+
+.wat{
+    height: 230px;
+    margin-top: -400px;
+    margin-left: -139px;
+}
+
+.wet{
+    height: 230px;
+    margin-top: -1040px;
+    margin-left: 135px;
+}
+
+.wot{
+    height: 240px;
+    margin-top: -2100px;
+    margin-left: -290px;
+} */
+
+.wut{
+    height: 230px;
+    margin-top: -1260px;
+    margin-left: 1300px;
+}
+
+.wat{
+    height: 230px;
+    margin-top: -400px;
+    margin-left: -139px;
+}
+
+.wet{
+    height: 230px;
+    margin-top: -940px;
+    margin-left: 135px;
+}
+
+.wot{
+    height: 240px;
+    margin-top: -1710px;
+    margin-left: -290px;
+}
+
+.inc{
+    font-size: 18px;
+}
+
+.para{
+    font-size: 18px;
+}
+
+.img-fluid{
+    height: 520px;
+    margin-left: 20px;
+
+}
+.reg{
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 180px;
+
+}
+
+.reg p{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.reg h2{
+margin-left: 550px;
+color: brown;
+
+}
+
+#starttime{
+    width: 200px;
+}
+
+.from{
+    margin-left: -69px;
+}
+
+.uss{
+    margin-left: -76px;
+}
+
+.to{
+    margin-left: -159px;
+}
+
+.phop{
+    margin-left: 185px;
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    figcaption{
+        position: inherit;
+        bottom: inherit;
+        margin: .25rem 0px;
+        font-size: inherit;
+    }
+    
+}

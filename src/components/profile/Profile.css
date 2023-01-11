@@ -1,0 +1,48 @@
+/* .App {
+  text-align: center;
+} */
+.bgimg{
+  background-image: url('./bg.jpg');
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.Info{
+    padding-top: 17%;
+    text-align:center;
+    color:#000000;
+    font-family: Nunito font;
+}
+.Info h2, .Info h3{
+  font-weight: bolder;
+  /* background:#334756; */
+  width: 25%;
+  margin-left: 39%;
+  text-align: center;
+  font-size: 35px;
+}
+.Button{
+  padding-left: 30rem;
+  padding-top: 2rem;
+}
+.custom-btn {
+  background-color: #000000 !important;
+  color: #FDEFEF !important;
+  border: 2px solid grey!important;
+  border-radius: 2rem !important;
+  font-family: Nunito font !important ;
+  margin-left: 30px;
+}
+.custom-btn:hover{
+  background:#53B8BB !important;
+}
